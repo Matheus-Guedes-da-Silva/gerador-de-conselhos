@@ -1,0 +1,22 @@
+@media (max-width: 826px){
+    .container-conteudo {
+        width: 90%;
+        height: 70%;
+    }
+
+    .conselho {
+        width: 70%;
+        font-size: 25px;
+        text-align: center;
+    }
+
+    .imagem-divisao {
+        width: 90%;
+    }
+}
+
+@media (max-width: 380px){
+    .conselho{
+        font-size: 22px;
+    }
+}
